@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Raunit Singh<br>👨‍💻 I’m a DevOps Engineer at Zeta<br>🚀 Passionate about Machine Learning, Data Engineering, and DevOps<br>🛠️ Hands-on with Python, SQL, Docker, Kubernetes, Jenkins<br>📈 Currently working on projects involving LLMs, RAG, APIs, and cloud deployments
+👋 Hi, I’m Raunit Singh<br>👨‍💻 I’m a Software Engineer at Zeta<br>🚀 Passionate about Machine Learning, Data Engineering, and DevOps<br>🛠️ Hands-on with Python, SQL, Docker, Kubernetes, Jenkins<br>📈 Currently working on projects involving LLMs, RAG, APIs, and cloud deployments
 
 
 ## 🌐 Socials:
